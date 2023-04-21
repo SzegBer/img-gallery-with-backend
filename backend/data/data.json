@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "url": "/1-Anti.jpg",
+    "title": "Anti a hangya",
+    "uploadDate": "2020-01-01",
+    "photographer": "John Doe"
+  },
+  {
+    "id": 2,
+    "url": "/2-AntParty.jpg",
+    "title": "Ant-Party Ozora style",
+    "uploadDate": "2020-01-01",
+    "photographer": "John Doe"
+  },
+  {
+    "id": 3,
+    "url": "/3-DeadAnt.jpg",
+    "title": "It's a DeadAnt",
+    "uploadDate": "2021-10-04",
+    "photographer": "John Doe"
+  },
+  {
+    "id": 4,
+    "url": "/4-GoaAnti.jpg",
+    "title": "Goa Anti",
+    "uploadDate": "2018-11-01",
+    "photographer": "John Doe"
+  },
+  {
+    "id": 5,
+    "url": "/5-Megeszi.jpg",
+    "title": "Megeszi mindet!",
+    "uploadDate": "2020-06-14",
+    "photographer": "John Doe"
+  }
+]
