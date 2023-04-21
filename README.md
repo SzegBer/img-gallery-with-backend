@@ -24,3 +24,6 @@ Haikei - https://haikei.app/
 
 # Webdesign inspiration:
 https://www.behance.net/gallery/167102751/ORANGE-AMPS-E-commerce-redesign?tracking_source=search_projects%7Cportfolio+swiper+webdesign
+
+# Sneak a peak:
+![screenshot01](https://drive.google.com/drive/u/0/folders/1ty_CPICXpSAkraf3WlkzSArMYxfueB5n)
