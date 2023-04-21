@@ -27,3 +27,5 @@ https://www.behance.net/gallery/167102751/ORANGE-AMPS-E-commerce-redesign?tracki
 
 # Sneak a peak:
 ![screenshot01](https://github.com/SzegBer/img-gallery-with-backend/blob/main/img-gallery-with-backend_01.png)
+
+![screenshot02](https://github.com/SzegBer/img-gallery-with-backend/blob/main/img-gallery-with-backend_02.png)
