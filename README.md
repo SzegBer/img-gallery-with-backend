@@ -26,4 +26,4 @@ Haikei - https://haikei.app/
 https://www.behance.net/gallery/167102751/ORANGE-AMPS-E-commerce-redesign?tracking_source=search_projects%7Cportfolio+swiper+webdesign
 
 # Sneak a peak:
-![screenshot01](https://drive.google.com/drive/u/0/folders/1ty_CPICXpSAkraf3WlkzSArMYxfueB5n)
+![screenshot01](https://github.com/SzegBer/img-gallery-with-backend/blob/main/img-gallery-with-backend_01.png)
